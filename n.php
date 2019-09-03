@@ -33,10 +33,4 @@
 	}
 	else 
 		echo "ERROR LOGING IN";
-	/*if(isset($_POST["sub"]))
-	{
-			$name=$_POST["uname"];
-			$pwd=$_POST["pwd"];
-			if*/
-		}
 ?>
